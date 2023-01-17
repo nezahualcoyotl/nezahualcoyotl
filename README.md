@@ -1,16 +1,14 @@
-### Hi there 👋
+<img title="logo" alt="logo" src="https://i.ibb.co/tHSQFyj/04.png" style="width:'100%'">
 
-<!--
-**nezahualcoyotl/nezahualcoyotl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hello
 
-Here are some ideas to get you started:
+i'm a husband and father of a beautiful girl. i'm also a very good software engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- i have an horizontal organization called NemSys. 
+- i'm good at C#, Brightscript and React Native. 
+- Lately i've been learning about firebase and now I want to make my life about it.
+
+a couple of my greatest achievements as a developer are
+
+- getting a solution of a medium-level problem in leetcode that beat 98.40% / 100% 
+- correcting official documentation in the roku website
