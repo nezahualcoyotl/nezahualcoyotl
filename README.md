@@ -1,5 +1,3 @@
-<img title="logo" alt="logo" src="https://i.ibb.co/tHSQFyj/04.png" style="width:'100%'">
-
 hello
 
 i'm a husband and father of a beautiful girl. i'm also a very good software engineer.
