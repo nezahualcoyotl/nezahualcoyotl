@@ -16,4 +16,4 @@ a couple of my greatest achievements as a developer are
 
 My github stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nezahualcoyotl&theme=dark&background=000000)](https://git.io/streak-stats)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nezahualcoyotl&theme=dark&background=000000)](https://git.io/streak-stats)
